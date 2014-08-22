@@ -1,0 +1,14 @@
+/* TEAM */
+	Programming and Design: Sarfraz Ahmed
+	Contact: sarfraznawaz2005@gmail.com
+	Twitter: @sarfraznawaz
+	From: Karachi, Pakistan
+
+/* Tools */
+	PHPStorm, Notepad++, FileZilla
+
+/* Uses */
+	flightPHP framework - a light-weight php framework (http://flightphp.com)
+	idiorm - ORM and query builder (https://github.com/j4mie/idiorm)
+	Twitter Bootstrap - UI CSS Framework (http://getbootstrap.com)
+	Ace - The High Performance Code Editor for the Web (http://ace.c9.io/)

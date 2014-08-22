@@ -1,0 +1,8 @@
+{
+    "require": {
+        "j4mie/idiorm": "*"
+    },
+    "autoload": {
+        "classmap": ["public/controllers/"]
+    }
+}
